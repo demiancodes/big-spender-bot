@@ -1,0 +1,13 @@
+SQLAlchemy==2.0.30
+aiogram==3.6.0
+python-dotenv==1.0.1
+
+# Linters, code formatters, etc.
+black==24.4.2
+flake8==7.0.0
+flake8-bugbear==24.4.26
+flake8-builtins==2.5.0
+flake8-commas==4.0.0
+flake8-variables-names==0.0.6
+isort==5.13.2
+pep8-naming==0.14.1
