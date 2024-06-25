@@ -1,0 +1,6 @@
+[flake8]
+exclude = __pycache__,venv,.git,.idea,.pytest_cache
+max-complexity = 10
+max-doc-length = 100
+max-line-length = 100
+per-file-ignores = __init__.py:F401
